@@ -1,5 +1,6 @@
 
 
+![Continuous Integration](https://github.com/cionagi/testimg/workflows/Continuous%20Integration/badge.svg)
 # Prueba 1 
 OK
 
